@@ -2,12 +2,12 @@
 
 <div align="center">
     
-Email. ymdlou@gmail.com
-Notion.
+Email. ymdlou@gmail.com   
+Notion.   
    
 ![JAVA](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white) ![SPRING](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=whit) ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
    
-   ***
+   
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=du-sel&layout=compact)
 
