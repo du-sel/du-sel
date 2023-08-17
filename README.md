@@ -3,8 +3,8 @@
 <div align="center">
 <br />
 <br />
-**Email.** ymdlou@gmail.com   <br />
-**Notion.**   <br />
+<b>Email.</b> ymdlou@gmail.com   <br />
+<b>Notion.</b>   <br />
 <br />
 <br />
 <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white"> 
