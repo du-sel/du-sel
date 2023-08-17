@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=b2bfc2&height=240&section=header&text=SEOUL&fontSize=60&animation=fadeIn&fontColor=b2bfc2&fontAlign=84&fontAlignY=40)
 
 <div align="center">
-<h3></h3>
-<h3></h3>
+<br />
+<br />
 Email. ymdlou@gmail.com   
 Notion.   
 <h3></h3>
