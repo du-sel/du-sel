@@ -4,7 +4,7 @@
 <br />
 <br />
 <b>Email.</b> ymdlou@gmail.com   <br />
-<b>Notion.</b>   <br />
+<b>Notion.</b> https://du-sel.notion.site/dd2562eee98e41289782f52b001a0f7d?v=0fe6198bd9a04c8a9b41c4f2b3c95496&pvs=4  <br />
 <br />
 <br />
 <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white"> 
